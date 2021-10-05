@@ -1,0 +1,24 @@
+.img-container {
+    
+    padding-left: 550px;
+    padding-right: 500px;
+}
+
+
+.details{
+   
+    padding-left: 550px;
+    border-style: solid;
+    border-width: medium;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    
+
+  
+    
+}
+.Header-logo{
+    border-radius: 50%;
+}
